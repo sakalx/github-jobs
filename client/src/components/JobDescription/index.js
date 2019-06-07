@@ -72,7 +72,6 @@ const JobDescription = ({job, selectJob}) => {
               anchor='right'
               open={Boolean(job)}
           >
-            }>
             {renderContent}
           </Drawer>
         </Hidden>

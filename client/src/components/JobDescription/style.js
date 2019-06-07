@@ -20,7 +20,7 @@ export const Row = styled('div')`
 
 export const Slide = styled('div')`
   overflow-x: hidden;
-  transition: width .2s cubic-bezier(.57,.21,.69,1.25);
+  transition: width .2s ease-out;
   width: 0; 
   
   ${props => props.open && css`
