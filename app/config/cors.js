@@ -1,4 +1,4 @@
-const WHITE_LIST = ['http://localhost:3000'];
+const WHITE_LIST = ['http://localhost:3000', 'https://sakalx.github.io/github-jobs'];
 
 module.exports = {
   origin: function(origin, callback) {
