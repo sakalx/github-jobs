@@ -35,5 +35,5 @@ Jobs API:
  ```
 [port: 3000]
  
-[DEMO](https://sakalx.github.io/https://sakalx.github.io/github-jobs)
+[DEMO](https://sakalx.github.io/github-jobs)
 
