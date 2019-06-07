@@ -1,0 +1,23 @@
+{
+  "name": "github-jobs-board-server",
+  "version": "0.0.1",
+  "description": "Server. Github jobs feed, test-project (React)",
+  "main": "server",
+  "scripts": {
+    "dev": "nodemon",
+    "start": "node server"
+  },
+  "author": "Sakal Serhii <sakals@mail.ua>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  },
+  "engines": {
+    "node": "10.x"
+  }
+}
