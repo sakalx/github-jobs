@@ -111,7 +111,7 @@ module.exports = (env, argv = {}) => {
           progressPlugin,
           cleanProdFolder,
           htmlIndex,
-          //favicon,
+          favicon,
         ]
         : [
           progressPlugin,
